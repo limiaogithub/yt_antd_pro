@@ -1,0 +1,3 @@
+[0123/233344.069:ERROR:process_reader_win.cc(142)] SuspendThread: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
+[0123/233344.071:ERROR:exception_snapshot_win.cc(87)] thread ID 6460 not found in process
+[0123/233344.071:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
